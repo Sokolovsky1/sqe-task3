@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "category": {
+      "id": 1,
+      "name": "birds"
+    },
+    "name": "Hedwig",
+    "photoUrls": [
+      "https://harrypotter.fandom.com/wiki/Hedwig?file=Hedwig_Snowy_Owl_PM.png"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "owl"
+      }
+    ],
+    "status": "available"
+  }

@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "username": "theChosen1",
+    "firstName": "harry",
+    "lastName": "potter",
+    "email": "hp@magic.com",
+    "password": "test",
+    "phone": "test",
+    "userStatus": 0
+}

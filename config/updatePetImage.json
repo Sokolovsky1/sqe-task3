@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "category": {
+      "id": 1,
+      "name": "birds"
+    },
+    "name": "Hedwig",
+    "photoUrls": [
+      "https://images.ctfassets.net/usf1vwtuqyxm/lbxISOVdOS64U428cc6mW/d4f3c826f6fc0f6b856c5e62c1be61c4/WB_F1_Hedwig_HarryHoldsHedwig_1383R_v2.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "owl"
+      }
+    ],
+    "status": "available"
+  }
